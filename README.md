@@ -8,7 +8,7 @@ mvn verify
 ```
 >Note: Use _mvn clean verify_ for subsequent builds
 ### Acceptance Test Reports
-After the build has run, the Acceptance Test reports can be found in _target/site/serenity_. Use a browser to view the _index.html_ file.
+After the build, the Acceptance Test reports can be found in _target/site/serenity_. Use a browser to view the _index.html_ file.
 
 #### Test Results Page
 ![Test Results Page](src/test/resources/images/test-results.png)
